@@ -6,7 +6,7 @@ Welcome to the "Tableau Dashboards" GitHub repository! This repository contains 
 Tableau Dashboards Included:
 ----------------------------
 
-1.  Creating Dashboards and Storytelling with Tableau - Week 3 Assignment.twbx
+1.  Creating Dashboards and Storytelling with Tableau - Week 3 Assignment.twbx 
 
     -   This Tableau workbook corresponds to the Week 3 assignment and focuses on developing dashboards and storytelling techniques in Tableau.
 2.  Creating Dashboards and Storytelling with Tableau - Week 4 Assignment.twbx
