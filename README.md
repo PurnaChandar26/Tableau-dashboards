@@ -3,7 +3,7 @@ Tableau Dashboards Repository
 
 Welcome to the "Tableau Dashboards" GitHub repository! This repository contains a collection of Tableau workbooks (.twbx files) created for various assignments and projects related to data visualization. These Tableau dashboards showcase skills in creating interactive and insightful visualizations using Tableau.
 
-Tableau Dashboards Included:
+Tableau Dashboards Included: 
 ----------------------------
 
 1.  Creating Dashboards and Storytelling with Tableau - Week 3 Assignment.twbx 
